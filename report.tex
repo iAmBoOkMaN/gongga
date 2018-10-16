@@ -1,0 +1,50 @@
+\documentclass[a4, 12pt, UTF8]{ctexart}
+
+\usepackage[english]{babel}
+\usepackage{setspace}
+\usepackage{hyperref}
+\usepackage[margin=1.5in]{geometry}
+\usepackage{amsmath}
+\usepackage{amsthm}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage[usenames,dvipsnames]{xcolor}
+\usepackage{graphicx}
+\usepackage{hyperref}
+\usepackage[numbers, square]{natbib}
+\usepackage{fancybox}
+\usepackage{picins}
+\usepackage{picinpar}
+\usepackage{epsfig}
+\usepackage{epstopdf}
+\graphicspath{{figure/section1/}{figure/section2/}{figure/section3/}}
+\usepackage{fancyhdr}
+\newcommand{\red}{\textcolor{red}}
+\newcommand{\blue}{\textcolor{blue}}
+
+\setlength{\baselineskip}{20pt}
+
+\pagestyle{fancy}
+
+
+
+\title{贡嘎环线徒步计划}
+
+\begin{document}
+  \maketitle
+
+  \renewcommand{\contentsname}{目录}
+  \renewcommand{\refname}{参考文献}
+
+  \tableofcontents
+
+  \include{section/section1/s1}
+
+  \include{section/section2/s2}
+
+  \include{section/section3/s3}
+
+
+\bibliographystyle{nature}
+\bibliography{ref}
+\end{document} 

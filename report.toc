@@ -1,0 +1,15 @@
+\select@language {english}
+\contentsline {section}{\numberline {1}前期准备}{2}{section.1}
+\contentsline {subsection}{\numberline {1.1}贡嘎环线}{2}{subsection.1.1}
+\contentsline {subsection}{\numberline {1.2}装备购置}{2}{subsection.1.2}
+\contentsline {subsubsection}{\numberline {1.2.1}服装装备}{2}{subsubsection.1.2.1}
+\contentsline {subsubsection}{\numberline {1.2.2}辅助装备}{3}{subsubsection.1.2.2}
+\contentsline {subsubsection}{\numberline {1.2.3}露营装备}{5}{subsubsection.1.2.3}
+\contentsline {subsubsection}{\numberline {1.2.4}医疗用品}{5}{subsubsection.1.2.4}
+\contentsline {subsubsection}{\numberline {1.2.5}生活用品}{5}{subsubsection.1.2.5}
+\contentsline {subsubsection}{\numberline {1.2.6}其他}{6}{subsubsection.1.2.6}
+\contentsline {subsection}{\numberline {1.3}相关网址}{6}{subsection.1.3}
+\contentsline {subsection}{\numberline {1.4}训练计划}{6}{subsection.1.4}
+\contentsline {section}{\numberline {2}徒步行程}{7}{section.2}
+\contentsline {subsection}{\numberline {2.1}路线安排}{7}{subsection.2.1}
+\contentsline {section}{\numberline {3}意外应对}{10}{section.3}
